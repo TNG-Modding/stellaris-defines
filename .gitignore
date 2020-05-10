@@ -21,3 +21,9 @@ dlc_metadata/
 crash_reporter/
 gfx/models
 *.fxh
+flags/
+tweakergui_assets/
+map/
+prescripter_countries/
+locales/
+.vs/
